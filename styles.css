@@ -1,6 +1,6 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #b2ac88;
+    background: linear-gradient(#bab17a,#b2ac88,#b8b5a0);
 }
 
 .avi { 
@@ -108,16 +108,19 @@ p {
 
 .button {
     border-radius: 5%;
-    padding: 15px;
+    padding: 5px;
     cursor: pointer;
     width: 300px;
     height: 50px;
-    color: white;
-    background: linear-gradient(rgb(30, 30, 30), grey)
+    color: whitesmoke;
+    background-color: Black;
 }
 
 .button:hover {
-    background: linear-gradient(rgb(104, 102, 102), rgb(152, 150, 150));
+    background-color: black;
+    color: whitesmoke;
+    width: 310px;
+    height: 55px;
 }
 
 footer {
