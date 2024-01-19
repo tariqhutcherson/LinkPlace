@@ -1,5 +1,5 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background: linear-gradient(rgb(175, 147, 111), rgb(217, 190, 154));
 }
 
@@ -94,6 +94,9 @@ h2 {
 
 p {
     text-align: center;
+}
+
+.second {
     margin-bottom: 50px;   
 }
 
